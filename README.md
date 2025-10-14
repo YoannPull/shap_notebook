@@ -1,7 +1,3 @@
-Voici un **README.md** prêt à coller dans ton dépôt.
-
----
-
 # SHAP – Notebook d’explicabilité sur données de scoring
 
 Petit projet démonstratif pour charger un jeu de données Excel de scoring, entraîner/évaluer un modèle (dans le notebook) et analyser les contributions locales/globales avec **SHAP**.
