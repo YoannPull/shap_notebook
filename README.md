@@ -85,13 +85,8 @@ Le notebook :
 * **Kernel non détecté** : réinstalle le noyau Jupyter (voir étape 3) et relance VS Code.
 * **Apple Silicon (M1/M2)** : certaines libs peuvent nécessiter les *Command Line Tools* (`xcode-select --install`).
 
-## Licence
-
-À définir (MIT, Apache-2.0, …).
-
 ## Contact
 
-Créé par/Pour : *[ton nom/équipe]*.
-Questions : ouvre une issue ou contacte *[email/Slack]*.
+Créé par : Yoann Pull
 
 ---
